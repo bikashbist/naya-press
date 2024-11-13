@@ -1,0 +1,1 @@
+<script src="{{asset('assets/dcms/assets/nestable/jquery.nestable.js')}}"></script>

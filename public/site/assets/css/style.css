@@ -1,0 +1,199 @@
+a {
+	text-decoration: none;
+}
+
+/** Contact Page CSS */
+
+.contact-style-1 {
+	float: left;
+	width: 100%;
+	padding:60px 0px;
+	
+}
+.contact-style-1 .address {
+	float: left;
+	width: 100%;
+	padding-bottom: 65px
+}
+.contact-style-1 .address .box {
+	margin: 0 auto;
+	display: block;
+	overflow: hidden;
+	width: 200px;
+	text-align: center
+}
+.contact-style-1 .address .box .fa {
+	width: 97px;
+	height: 97px;
+	display: block;
+	border-radius: 100%;
+	overflow: hidden;
+	margin: 0 auto 18px;
+	font-size: 45px;
+	line-height: 97px;
+	color: #fff
+}
+.contact-style-1 .address .box p {
+	margin: 0
+}
+.contact-style-1 .address .box h3 {
+	margin: 0 0 15px
+}
+.contact-style-1 .address .box a {
+	display: block;
+	font: 400 14px/22px "Roboto", sans-serif;
+	color: #777;
+	text-decoration: none;
+	word-break: break-all;
+}
+.address-color-1 {
+	background: #4caf50
+}
+.address-color-2 {
+	background: #9e9e9e
+}
+.address-color-3 {
+	background: #374046
+}
+.address-color-4 {
+	background: #03a9f4
+}
+.map-form-section {
+	float: left;
+	width: 100%
+}
+.map-box-1 {
+	float: left;
+	width: 100%
+}
+.map-box-1 .map_canvas {
+	height: 696px;
+	width: 100%
+}
+.contact-form {
+	float: left;
+	width: 100%;
+	margin: 3px 0 0
+}
+.contact-form h3 {
+	margin: 0 0 15px
+}
+.contact-form p {
+	margin: 0 0 17px
+}
+.contact-form textarea, input[type=text], input[type=password], input[type=datetime], input[type=datetime-local], input[type=date], input[type=month], input[type=time], input[type=week], input[type=number], input[type=email], input[type=url], input[type=search], input[type=tel], input[type=color], .uneditable-input {
+	width: 100%;
+	height: 50px;
+	padding: 0 15px;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	margin: 0 0 29px;
+	font: 400 13px lato, sans-serif;
+	color: #777
+}
+.contact-form textarea {
+	height: 270px;
+	resize: none;
+	padding: 15px
+}
+.contact-form input[type=submit] {
+	font: 400 18px lato, sans-serif;
+	color: #fff;
+	border: 0;
+	padding: 17px 80px
+}
+.btn-row .contact-form input[type=submit] {
+	float: none;
+	display: inline-block
+}
+input::-webkit-input-placeholder {
+color:#777;
+opacity:1
+}
+input:-moz-placeholder {
+color:#777;
+opacity:1
+}
+input::-moz-placeholder {
+color:#777;
+opacity:1
+}
+input:-ms-input-placeholder {
+color:#777;
+opacity:1
+}
+textarea::-webkit-input-placeholder {
+color:#777;
+opacity:1
+}
+textarea:-moz-placeholder {
+color:#777;
+opacity:1
+}
+textarea::-moz-placeholder {
+color:#777;
+opacity:1
+}
+textarea:-ms-input-placeholder {
+color:#777;
+opacity:1
+}
+.contact-style-2 {
+	float: left;
+	width: 100%
+}
+.contact-style-2 .contact-form {
+	margin: 0;
+	width: 100%
+}
+.contact-style-2 .contact-form textarea {
+	height: 209px
+}
+.contact-style-2 .map-form-section {
+	margin-bottom: 51px
+}
+.map-box-2 {
+	float: left;
+	width: 100%;
+	margin-bottom: 70px
+}
+.map-box-2 .map_canvas {
+	height: 320px;
+	width: 100%
+}
+.address-style-2 {
+	float: left;
+	width: 100%;
+	padding: 0 0 40px
+}
+.address-style-2 .frame:hover img {
+	opacity: .5
+}
+.address-style-2 .box {
+	float: left;
+	margin-bottom: 50px;
+	padding: 0 0 0 19px;
+	position: relative;
+	width: 325px
+}
+.address-style-2 .box .fa {
+	position: absolute;
+	font-size: 25px;
+	left: 0
+}
+.address-style-2 .box .text-box {
+	overflow: hidden;
+	padding: 0 0 0 20px
+}
+.address-style-2 .box .text-box p {
+	margin: 0
+}
+.address-style-2 .box .text-box a {
+	color: #777;
+	display: block;
+	font: 400 14px/22px "Lato", sans-serif;
+	text-decoration: none
+}
+
